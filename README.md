@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Juan Carlos Heredia
-- 👀 Platform & DevOps Engineer. 
-- 💞️ A fan of technology, photography, and music.
+- 👀 Actually working as Platform & DevOps Engineer. 
+- 💞️ A fan of technology, Photography, and music.
 - 📫 How to reach me: On Twitter [@juanheredia](https://twitter.com/JuanHeredia) or more [about me](https://about.me/juancarlosherediamayer)
 
 🌱 Stay positively charged ⚡️🔋
