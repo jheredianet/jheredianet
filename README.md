@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Juan Carlos Heredia
-- 👀 I’m interested in: DevOps
-- 🌱 I’m currently learning: Cloud Storage Services
-- 💞️ I’m looking to collaborate on: any open source repository, on my free time
+- 👀 Platform & DevOps Engineer. 
+- 💞️ A fan of technology, photography, and music.
 - 📫 How to reach me: On Twitter [@juanheredia](https://twitter.com/JuanHeredia) or more [about me](https://about.me/juancarlosherediamayer)
+
+🌱 Stay positively charged ⚡️🔋
 
 <!---
 jheredianet/jheredianet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
