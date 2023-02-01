@@ -1,4 +1,6 @@
-👋 Hi there! my name is Juan Carlos. I'm passionate about building software and IT stuff releated. Actually working as Platform & DevOps Engineer, so I'm enjoying the DevOps culture using serveral tools to accomplish these tasks. You may reach me 📫 on Twitter as [@juanheredia](https://twitter.com/JuanHeredia) or use the following link if you want to know more [about me](https://about.me/juancarlosherediamayer).
+👋 Hi there! my name is Juan Carlos. I'm passionate about building software and IT stuff releated. 
+
+Actually working as Platform & DevOps Engineer, so I'm enjoying the DevOps culture using serveral tools to accomplish these tasks. You may reach me on Twitter as [@juanheredia](https://twitter.com/JuanHeredia) or use the following link if you want to know more [about me](https://about.me/juancarlosherediamayer).
 
 <details>
   <summary>&nbsp;:zap: GitHub Stats</summary>
